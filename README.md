@@ -1,3 +1,3 @@
 # Computer-Vision
 
-CV Assignments on various images without using predefined opencv libraries.
+ Implementing various functions on images without using predefined opencv libraries.
